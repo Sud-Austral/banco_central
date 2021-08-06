@@ -1,0 +1,3 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4)
+9,Mercado Laboral y Demografía,2,Remuneraciones,1,Indice general de remuneraciones y costo de la mano de obra,1,Base año 2016=100,1,Series referenciales
+9,Mercado Laboral y Demografía,2,Remuneraciones,1,Indice general de remuneraciones y costo de la mano de obra,1,Base año 2016=100,2,Series empalmadas

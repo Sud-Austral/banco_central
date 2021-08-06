@@ -1,0 +1,3 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
+8,Sector Externo,5,Comercio Exterior,2,Índice Bienes,1,Exportaciones
+8,Sector Externo,5,Comercio Exterior,2,Índice Bienes,2,Importaciones

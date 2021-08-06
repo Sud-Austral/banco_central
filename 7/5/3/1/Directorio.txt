@@ -1,0 +1,8 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4)
+7,Cuentas Nacionales,5,Información histórica,3,Base 2003,1,PIB gasto e ingreso,1,Imacec
+7,Cuentas Nacionales,5,Información histórica,3,Base 2003,1,PIB gasto e ingreso,2,Producto interno bruto
+7,Cuentas Nacionales,5,Información histórica,3,Base 2003,1,PIB gasto e ingreso,3,Producto interno bruto por clase de actividad económica
+7,Cuentas Nacionales,5,Información histórica,3,Base 2003,1,PIB gasto e ingreso,4,Gasto del producto interno bruto
+7,Cuentas Nacionales,5,Información histórica,3,Base 2003,1,PIB gasto e ingreso,5,Agregados macroeconómicos
+7,Cuentas Nacionales,5,Información histórica,3,Base 2003,1,PIB gasto e ingreso,6,Producto interno bruto regional
+7,Cuentas Nacionales,5,Información histórica,3,Base 2003,1,PIB gasto e ingreso,7,Empalmes con series base 2003

@@ -1,0 +1,7 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
+2,Precios,6,Información histórica,5,IPC - Aperturas,1,Índices 2013
+2,Precios,6,Información histórica,5,IPC - Aperturas,2,Ponderadores 2013
+2,Precios,6,Información histórica,5,IPC - Aperturas,3,Índices 2009
+2,Precios,6,Información histórica,5,IPC - Aperturas,4,Ponderadores 2009
+2,Precios,6,Información histórica,5,IPC - Aperturas,5,Índices 2008
+2,Precios,6,Información histórica,5,IPC - Aperturas,6,Ponderadores 2008

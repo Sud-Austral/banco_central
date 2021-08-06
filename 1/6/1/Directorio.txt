@@ -1,0 +1,3 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
+1,Principales Estadísticas Macro,6,Sector Externo,1,Balanza de pagos,1,Indicadores de coyuntura
+1,Principales Estadísticas Macro,6,Sector Externo,1,Balanza de pagos,2,Indicadores trimestrales

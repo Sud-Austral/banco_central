@@ -1,0 +1,2 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
+8,Sector Externo,4,Deuda Externa,2,Por sector institucional a valor de mercado

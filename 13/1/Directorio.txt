@@ -1,0 +1,4 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
+13,Finanzas Públicas,1,Estado de Operaciones del Gobierno General,1,Gobierno General Total
+13,Finanzas Públicas,1,Estado de Operaciones del Gobierno General,2,Gobierno Central
+13,Finanzas Públicas,1,Estado de Operaciones del Gobierno General,3,Municipalidades

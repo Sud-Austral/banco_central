@@ -1,0 +1,2 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
+6,Estadísticas de Derivados y Spot,3,Total (derivados + spot),2,Monedas total mensual

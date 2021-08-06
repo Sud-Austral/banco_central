@@ -1,0 +1,7 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
+7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,1,Imacec
+7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,2,Producto interno bruto
+7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,3,Producto interno bruto por clase de actividad económica
+7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,4,Gasto del producto interno bruto
+7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,5,Agregados macroeconómicos
+7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,6,Producto interno bruto regional

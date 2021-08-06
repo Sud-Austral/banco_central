@@ -1,0 +1,3 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4)
+7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,6,Producto interno bruto regional,1,A precios corrientes
+7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,6,Producto interno bruto regional,2,Volumen a precios del año anterior encadenado
