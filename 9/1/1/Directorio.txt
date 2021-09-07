@@ -1,0 +1,10 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
+9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente,1,"Tasas de desocupación, nacional y por región"
+9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente,2,"Fuerza de trabajo nacional, empleo, desocupación e inactivos"
+9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente,3,Ocupación por rama de actividad económica
+9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente,4,"Ocupados, por categoría en la ocupación"
+9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente,5,"Ocupados, por grupo de ocupación"
+9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente,6,Empleo y Desocupación Región Metropolitana de Santiago
+9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente,7,Empleo en el Gran Santiago- UCH
+9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente,8,Índice de avisos laborales de internet
+9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente,9,Índice de vacantes de trabajo
