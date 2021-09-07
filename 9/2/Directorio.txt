@@ -1,4 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-9,Mercado Laboral y Demografía,2,Remuneraciones,1,Indice general de remuneraciones y costo de la mano de obra
-9,Mercado Laboral y Demografía,2,Remuneraciones,2,"Remuneraciones medias por actividad económica, nominales"
-9,Mercado Laboral y Demografía,2,Remuneraciones,3,"Remuneraciones medias por grupo ocupacional, nominales"

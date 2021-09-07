@@ -1,2 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4)
-7,Cuentas Nacionales,2,Cuentas nacionales por sector institucional,2,Cuentas financieras,2,Operaciones financieras,2,"Economía nacional, detalle de sectores"

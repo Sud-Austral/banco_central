@@ -1,5 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-5,Estadísticas Monetarias y Financieras,2,Colocaciones del sector bancario,2,Colocaciones - saldos
-5,Estadísticas Monetarias y Financieras,2,Colocaciones del sector bancario,3,"Colocaciones en m/n, por sector y por reajustabilidad"
-5,Estadísticas Monetarias y Financieras,2,Colocaciones del sector bancario,4,"Colocaciones en m/e, por sector y por plazo"
-5,Estadísticas Monetarias y Financieras,2,Colocaciones del sector bancario,6,Otras colocaciones

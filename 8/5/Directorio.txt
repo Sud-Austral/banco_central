@@ -1,4 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-8,Sector Externo,5,Comercio Exterior,1,Bienes
-8,Sector Externo,5,Comercio Exterior,2,Índice Bienes
-8,Sector Externo,5,Comercio Exterior,3,Servicios

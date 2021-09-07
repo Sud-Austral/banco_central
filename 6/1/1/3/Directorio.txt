@@ -1,9 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4)
-6,Estadísticas de Derivados y Spot,1,Derivados,1,Derivados de monedas,3,Sectores derivados mensual,1,Interbancario
-6,Estadísticas de Derivados y Spot,1,Derivados,1,Derivados de monedas,3,Sectores derivados mensual,2,Mercado externo
-6,Estadísticas de Derivados y Spot,1,Derivados,1,Derivados de monedas,3,Sectores derivados mensual,3,Fondos de pensiones
-6,Estadísticas de Derivados y Spot,1,Derivados,1,Derivados de monedas,3,Sectores derivados mensual,4,Empresas sector real
-6,Estadísticas de Derivados y Spot,1,Derivados,1,Derivados de monedas,3,Sectores derivados mensual,5,Compañías de seguros
-6,Estadísticas de Derivados y Spot,1,Derivados,1,Derivados de monedas,3,Sectores derivados mensual,6,Corredoras de bolsa y agencias de Valores
-6,Estadísticas de Derivados y Spot,1,Derivados,1,Derivados de monedas,3,Sectores derivados mensual,7,Administradoras generales de fondos
-6,Estadísticas de Derivados y Spot,1,Derivados,1,Derivados de monedas,3,Sectores derivados mensual,8,Otros sectores

@@ -1,7 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
-2,Precios,1,UF - IVP - UTM
-2,Precios,2,"IPC , IPC SAE e IPC sin volátiles"
-2,Precios,3,"IPC General y medidas subyacentes, INE"
-2,Precios,4,IPP General y por categoría
-2,Precios,5,IPC - Aperturas
-2,Precios,6,Información histórica

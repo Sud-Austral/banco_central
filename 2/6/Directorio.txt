@@ -1,5 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-2,Precios,6,Información histórica,3,IPC General y medidas subyacentes
-2,Precios,6,Información histórica,4,IPM por origen y por sectores
-2,Precios,6,Información histórica,5,IPC - Aperturas
-2,Precios,6,Información histórica,6,IPM Apertura

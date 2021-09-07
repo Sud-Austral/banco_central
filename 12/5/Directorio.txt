@@ -1,2 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-12,Economía Internacional,5,Información descontinuada,6,Tasas de interés externas

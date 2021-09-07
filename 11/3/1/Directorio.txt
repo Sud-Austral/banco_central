@@ -1,4 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
-11,Indicadores Sectoriales,3,Información histórica,1,Referencia 2008,1,Stock de capital bruto
-11,Indicadores Sectoriales,3,Información histórica,1,Referencia 2008,2,Stock de capital neto
-11,Indicadores Sectoriales,3,Información histórica,1,Referencia 2008,3,Consumo de capital fijo

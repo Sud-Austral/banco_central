@@ -1,4 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-7,Cuentas Nacionales,3,Estadísticas del mercado de valores,1,Principales indicadores del mercado de valores de renta fija e intermediación financiera
-7,Cuentas Nacionales,3,Estadísticas del mercado de valores,3,"Apertura de flujos de títulos de deuda, según mercado de emisión"
-7,Cuentas Nacionales,3,Estadísticas del mercado de valores,4,"Stock de valores de renta fija e intermediación financiera, según plazo original y mercado de emisión"

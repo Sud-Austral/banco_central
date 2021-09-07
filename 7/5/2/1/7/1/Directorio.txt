@@ -1,2 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4),Código (sub5),Carpeta (sub5),Código (sub6),Carpeta (sub6)
-7,Cuentas Nacionales,5,Información histórica,2,Referencia 2008,1,PIB gasto e ingreso,7,Producto interno bruto regional,1,A precios corrientes,2,PIB por actividad

@@ -1,3 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4),Código (sub5),Carpeta (sub5)
-8,Sector Externo,6,Información histórica,4,Comercio Exterior,4,"Índice Bienes, período 2003-2016",2,Importaciones,1,Precio
-8,Sector Externo,6,Información histórica,4,Comercio Exterior,4,"Índice Bienes, período 2003-2016",2,Importaciones,2,Cantidad

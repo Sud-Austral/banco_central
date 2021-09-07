@@ -1,5 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-12,Economía Internacional,1,Sector real,1,Crecimiento real
-12,Economía Internacional,1,Sector real,2,Desempleo
-12,Economía Internacional,1,Sector real,3,Inflación
-12,Economía Internacional,1,Sector real,4,Precios al productor

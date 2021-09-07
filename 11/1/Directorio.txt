@@ -1,5 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-11,Indicadores Sectoriales,1,Indicadores,1,Comercio
-11,Indicadores Sectoriales,1,Indicadores,2,Construcción
-11,Indicadores Sectoriales,1,Indicadores,4,Industria
-11,Indicadores Sectoriales,1,Indicadores,6,Minería

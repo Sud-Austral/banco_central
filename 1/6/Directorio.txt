@@ -1,4 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-1,Principales Estadísticas Macro,6,Sector Externo,1,Balanza de pagos
-1,Principales Estadísticas Macro,6,Sector Externo,2,"Reservas internacionales, deuda externa y PII"
-1,Principales Estadísticas Macro,6,Sector Externo,3,Ratios respecto al PIB u otra variable

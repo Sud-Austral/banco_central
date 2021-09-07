@@ -1,5 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4)
-7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,4,Gasto del producto interno bruto,1,A precios corrientes
-7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,4,Gasto del producto interno bruto,2,Volumen a precios del año anterior encadenado
-7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,4,Gasto del producto interno bruto,3,Deflactor del gasto del PIB
-7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013,4,Gasto del producto interno bruto,4,Agregados de inversión en relación al PIB

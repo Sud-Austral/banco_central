@@ -1,2 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-1,Principales Estadísticas Macro,10,Finanzas Públicas,1,Gobierno Central

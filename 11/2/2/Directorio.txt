@@ -1,3 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
-11,Indicadores Sectoriales,2,Stock de capital,2,Stock de capital neto,1,A precios corrientes
-11,Indicadores Sectoriales,2,Stock de capital,2,Stock de capital neto,2,A precios constantes

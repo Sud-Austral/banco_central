@@ -1,4 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-6,Estadísticas de Derivados y Spot,2,Spot,1,Bancos spot diario
-6,Estadísticas de Derivados y Spot,2,Spot,2,Bancos spot mensual
-6,Estadísticas de Derivados y Spot,2,Spot,3,Sectores spot mensual

@@ -1,4 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4)
-5,Estadísticas Monetarias y Financieras,6,Operaciones de mercado abierto,3,Bonos licitados por el BCCh,3,En USD,1,BCD
-5,Estadísticas Monetarias y Financieras,6,Operaciones de mercado abierto,3,Bonos licitados por el BCCh,3,En USD,2,BCD (tasa máxima convencional)
-5,Estadísticas Monetarias y Financieras,6,Operaciones de mercado abierto,3,Bonos licitados por el BCCh,3,En USD,3,BCX

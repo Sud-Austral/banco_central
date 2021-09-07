@@ -1,4 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
-6,Estadísticas de Derivados y Spot,1,Derivados
-6,Estadísticas de Derivados y Spot,2,Spot
-6,Estadísticas de Derivados y Spot,3,Total (derivados + spot)

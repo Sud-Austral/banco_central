@@ -1,3 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
-8,Sector Externo,1,Balanza de Pagos,2,Balanza de Pagos,3,Cuenta financiera
-8,Sector Externo,1,Balanza de Pagos,2,Balanza de Pagos,4,Cuenta financiera por sector institucional

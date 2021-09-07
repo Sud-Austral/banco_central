@@ -1,3 +1,0 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
-5,Estadísticas Monetarias y Financieras,1,Agregados monetarios,1,Nominales,1,Series diarias
-5,Estadísticas Monetarias y Financieras,1,Agregados monetarios,1,Nominales,2,Series mensuales
