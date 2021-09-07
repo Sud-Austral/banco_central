@@ -1,0 +1,4 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
+3,Tasas de Interés,5,Tasas de interés del sistema financiero - mensual,2,Tasas de colocación - tasas promedio,1,Por tipo deudor y producto (tasas y flujos)
+3,Tasas de Interés,5,Tasas de interés del sistema financiero - mensual,2,Tasas de colocación - tasas promedio,2,Por tipo deudor y plazo
+3,Tasas de Interés,5,Tasas de interés del sistema financiero - mensual,2,Tasas de colocación - tasas promedio,3,Por tipo de reajustabilidad y moneda

@@ -1,0 +1,6 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
+7,Cuentas Nacionales,1,PIB gasto e ingreso
+7,Cuentas Nacionales,2,Cuentas nacionales por sector institucional
+7,Cuentas Nacionales,3,Estadísticas del mercado de valores
+7,Cuentas Nacionales,4,Inversión por clase de actividad económica
+7,Cuentas Nacionales,5,Información histórica

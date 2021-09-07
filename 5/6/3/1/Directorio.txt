@@ -1,0 +1,3 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3),Código (sub4),Carpeta (sub4)
+5,Estadísticas Monetarias y Financieras,6,Operaciones de mercado abierto,3,Bonos licitados por el BCCh,1,En pesos,1,BCP
+5,Estadísticas Monetarias y Financieras,6,Operaciones de mercado abierto,3,Bonos licitados por el BCCh,1,En pesos,2,BTP

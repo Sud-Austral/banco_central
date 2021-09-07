@@ -1,0 +1,4 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
+3,Tasas de Interés,5,Tasas de interés del sistema financiero - mensual,2,Tasas de colocación - tasas promedio
+3,Tasas de Interés,5,Tasas de interés del sistema financiero - mensual,3,Tasas de captación (tasa promedio y flujo)
+3,Tasas de Interés,5,Tasas de interés del sistema financiero - mensual,4,Spread y encaje

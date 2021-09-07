@@ -1,0 +1,2 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
+9,Mercado Laboral y Demografía,2,Remuneraciones,3,"Remuneraciones medias por grupo ocupacional, nominales",1,Metodología descontinuada

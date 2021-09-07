@@ -1,0 +1,4 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
+11,Indicadores Sectoriales,1,Indicadores
+11,Indicadores Sectoriales,2,Stock de capital
+11,Indicadores Sectoriales,3,Información histórica

@@ -1,0 +1,5 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
+8,Sector Externo,6,Información histórica,1,Balanza de pagos
+8,Sector Externo,6,Información histórica,2,"Posición de Inversión Internacional (PII), período 2000-2011"
+8,Sector Externo,6,Información histórica,3,Deuda Externa
+8,Sector Externo,6,Información histórica,4,Comercio Exterior

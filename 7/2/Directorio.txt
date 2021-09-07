@@ -1,0 +1,6 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
+7,Cuentas Nacionales,2,Cuentas nacionales por sector institucional,1,Cuentas no financieras
+7,Cuentas Nacionales,2,Cuentas nacionales por sector institucional,2,Cuentas financieras
+7,Cuentas Nacionales,2,Cuentas nacionales por sector institucional,3,Exposiciones intersectoriales
+7,Cuentas Nacionales,2,Cuentas nacionales por sector institucional,4,Ratios
+7,Cuentas Nacionales,2,Cuentas nacionales por sector institucional,5,Información complementaria

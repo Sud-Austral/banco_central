@@ -1,0 +1,11 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
+5,Estadísticas Monetarias y Financieras,1,Agregados monetarios
+5,Estadísticas Monetarias y Financieras,2,Colocaciones del sector bancario
+5,Estadísticas Monetarias y Financieras,3,Depósitos del sector bancario
+5,Estadísticas Monetarias y Financieras,4,Inversiones financieras del sector bancario
+5,Estadísticas Monetarias y Financieras,5,Balances BCCh e instituciones financieras
+5,Estadísticas Monetarias y Financieras,6,Operaciones de mercado abierto
+5,Estadísticas Monetarias y Financieras,7,Medidas excepcionales de liquidez
+5,Estadísticas Monetarias y Financieras,8,Compensación inflacionaria
+5,Estadísticas Monetarias y Financieras,9,Índices de coyuntura
+5,Estadísticas Monetarias y Financieras,10,Información histórica

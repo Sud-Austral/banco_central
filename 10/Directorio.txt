@@ -1,0 +1,4 @@
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
+10,Expectativas Económicas,1,Encuesta de Expectativas Económicas (EEE)
+10,Expectativas Económicas,3,IMCE
+10,Expectativas Económicas,5,Índice de percepción Universidad de Chile
