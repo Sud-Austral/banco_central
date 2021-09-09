@@ -1,1 +1,4 @@
-
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
+6,Estadísticas de Derivados y Spot,1,Derivados,1,Derivados de monedas
+6,Estadísticas de Derivados y Spot,1,Derivados,2,Derivados de tasas de interés
+6,Estadísticas de Derivados y Spot,1,Derivados,3,Derivados de productos básicos

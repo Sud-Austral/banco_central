@@ -1,3 +1,2 @@
 Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
 9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",1,Medotología vigente
-9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",2,Metodología descontinuada

@@ -1,4 +1,2 @@
 Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
 5,Estadísticas Monetarias y Financieras,6,Operaciones de mercado abierto,2,Pagarés licitados por el BCCh,1,En pesos
-5,Estadísticas Monetarias y Financieras,6,Operaciones de mercado abierto,2,Pagarés licitados por el BCCh,2,En UF
-5,Estadísticas Monetarias y Financieras,6,Operaciones de mercado abierto,2,Pagarés licitados por el BCCh,3,En USD
