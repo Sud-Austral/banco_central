@@ -1,2 +1,5 @@
 Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
 9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación"
+9,Mercado Laboral y Demografía,2,Remuneraciones
+9,Mercado Laboral y Demografía,3,Demografía
+9,Mercado Laboral y Demografía,4,Información histórica
