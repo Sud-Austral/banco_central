@@ -2,6 +2,3 @@ Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta
 7,Cuentas Nacionales,5,Información histórica,1,Series empalmadas
 7,Cuentas Nacionales,5,Información histórica,2,Referencia 2008
 7,Cuentas Nacionales,5,Información histórica,3,Base 2003
-7,Cuentas Nacionales,5,Información histórica,4,Base 1996
-7,Cuentas Nacionales,5,Información histórica,5,Base 1986
-7,Cuentas Nacionales,5,Información histórica,6,Base 1977
