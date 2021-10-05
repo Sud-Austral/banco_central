@@ -8,4 +8,3 @@ Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta
 9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",2,Metodología descontinuada,8,"Ocupados, por grupo de ocupación"
 9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",2,Metodología descontinuada,9,Empleo y desocupación desestacionalizados
 9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",2,Metodología descontinuada,10,Horas efectivas trabajadas
-9,Mercado Laboral y Demografía,1,"Fuerza de Trabajo, Empleo y Desocupación",2,Metodología descontinuada,11,Empleo en el Gran Santiago- UCH

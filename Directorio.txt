@@ -1,1 +1,14 @@
-
+Código,Carpeta
+1,Principales Estadísticas Macro
+2,Precios
+3,Tasas de Interés
+4,Tipos de Cambio
+5,Estadísticas Monetarias y Financieras
+6,Estadísticas de Derivados y Spot
+7,Cuentas Nacionales
+8,Sector Externo
+9,Mercado Laboral y Demografía
+10,Expectativas Económicas
+11,Indicadores Sectoriales
+12,Economía Internacional
+13,Finanzas Públicas

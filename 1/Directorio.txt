@@ -1,11 +1,1 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
-1,Principales Estadísticas Macro,1,Precios
-1,Principales Estadísticas Macro,2,Tasa de Interés y Estadísticas Monetarias
-1,Principales Estadísticas Macro,3,Balance Contable Banco Central
-1,Principales Estadísticas Macro,4,Tipo de Cambio
-1,Principales Estadísticas Macro,5,Actividad y Demanda
-1,Principales Estadísticas Macro,6,Sector Externo
-1,Principales Estadísticas Macro,7,Mercado laboral
-1,Principales Estadísticas Macro,8,Indicadores Sectoriales
-1,Principales Estadísticas Macro,9,Economia internacional
-1,Principales Estadísticas Macro,10,Finanzas Públicas
+

@@ -3,5 +3,3 @@ Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
 8,Sector Externo,2,Posición de Inversión Internacional (PII)
 8,Sector Externo,3,Reservas internacionales
 8,Sector Externo,4,Deuda Externa
-8,Sector Externo,5,Comercio Exterior
-8,Sector Externo,6,Información histórica
