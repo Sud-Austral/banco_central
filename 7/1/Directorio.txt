@@ -1,3 +1,1 @@
-Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-7,Cuentas Nacionales,1,PIB gasto e ingreso,1,Referencia 2013
-7,Cuentas Nacionales,1,PIB gasto e ingreso,2,Revisiones PIB
+
