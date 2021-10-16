@@ -1,3 +1,6 @@
 Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
 12,Economía Internacional,1,Sector real
 12,Economía Internacional,2,Sector Financiero
+12,Economía Internacional,3,Paridades de moneda
+12,Economía Internacional,4,Materias primas
+12,Economía Internacional,5,Información descontinuada
