@@ -1,2 +1,2 @@
 Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2)
-5,Estadísticas Monetarias y Financieras,5,Balances BCCh e instituciones financieras,4,Aperturas analíticas del BCCh
+5,Estadísticas Monetarias y Financieras,5,Balances BCCh e instituciones financieras,5,Aperturas analíticas del BCCh
