@@ -1,4 +1,3 @@
 Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1),Código (sub2),Carpeta (sub2),Código (sub3),Carpeta (sub3)
 7,Cuentas Nacionales,5,Información histórica,2,Referencia 2008,1,PIB gasto e ingreso
 7,Cuentas Nacionales,5,Información histórica,2,Referencia 2008,2,Cuentas nacionales por sector institucional
-7,Cuentas Nacionales,5,Información histórica,2,Referencia 2008,3,Inversión por clase de actividad económica
