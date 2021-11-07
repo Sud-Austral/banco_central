@@ -1,1 +1,4 @@
-
+Código (sub),Carpeta (sub),Código (sub1),Carpeta (sub1)
+13,Finanzas Públicas,1,Estado de Operaciones del Gobierno General
+13,Finanzas Públicas,2,"Activos, pasivos y deuda"
+13,Finanzas Públicas,3,Información histórica
